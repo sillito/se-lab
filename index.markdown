@@ -8,10 +8,10 @@ A collection of software engineering studies that I use in a graduate course tha
 Note that in some cases studies will build on previous studies (involving analysis of previously collected data, for example).
 
 
-1. [Comparing pair programming and code review - a controlled study](labs/pair-programming.html)
+1. [Comparing pair programming and code review - a controlled study](studies/pair-programming.html)
 * Navigation - applying a IFT (use data from previous)
-* [XYZ - a systematic review](labs/systematic-review.html)
-* [Questions and Answers on StackOverflow - coding and categorizing](labs/stackoverflow.html)
+* [XYZ - a systematic review](studies/systematic-review.html)
+* [Questions and Answers on StackOverflow - coding and categorizing](studies/stackoverflow.html)
 
 ### Download
 
