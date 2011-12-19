@@ -13,6 +13,14 @@ Note that in some cases studies will build on previous studies (involving analys
 * [XYZ - a systematic review](studies/systematic-review.html)
 * [Questions and Answers on StackOverflow - coding and categorizing](studies/stackoverflow.html)
 
+## Materials
+
+1. Simple statistics
+* How to conduct an interview
+* Coding
+* Categorizing ???
+
+
 ### Download
 
 View the [GitHub project](https://github.com/sillito/se-lab), download this project in either [zip](https://github.com/sillito/se-lab/zipball/master) or [tar](https://github.com/sillito/se-lab/tarball/master) formats, or clone the project with [Git](http://git-scm.com) by running:
