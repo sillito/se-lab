@@ -12,6 +12,8 @@ A _defect_ (or fault) is an imperfection in source code (or other artifact). It 
 
 Two software engineering techniques that aim to reduce defects are _pair programming_ (two programmers working together on the same task at the same workstation) and _peer review_ or _code review_ (code written by one developer is reviewed by another developer). The main goal of this study is to see which of these techniques is more effective at reducing defects.
 
+Here is a sample [informed consent form](pair-programming-consent.html). Copy and edit this sample as appropriate. Your final version should have the University of Calgary's logo at the top.
+
 ## Setup
 
 Recruit 2 programmers with experience programming in Java to participate in this experiment. In the following I'll call them participants X and Y and you should randomly assign which participant is X and which is Y. Each participant will take part in two 30 minute sessions. Sessions begin with 5 minutes of instruction (to explain the task and study setup) followed by 25 minutes working on the task.

@@ -9,13 +9,16 @@ Note that in some cases studies will build on previous studies (involving analys
 
 
 1. [Comparing pair programming and code review - a controlled study](studies/pair-programming.html)
-* Navigation - applying a IFT (use data from previous)
+* Navigation - applying a IFT (use data from previous study)
+* [ - an interview study](studies/.html)
 * [XYZ - a systematic review](studies/systematic-review.html)
 * [Questions and Answers on StackOverflow - coding and categorizing](studies/stackoverflow.html)
 
 ## Materials
 
-1. Simple statistics
+1. [Sample informed consent form for an interview study](studies/interview-consent.html)
+* [Sample informed consent form for a controlled study](studies/pair-programming-consent.html)
+* Simple statistics
 * How to conduct an interview
 * Coding
 * Categorizing ???
