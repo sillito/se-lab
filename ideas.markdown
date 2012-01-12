@@ -15,7 +15,14 @@
 	1. propose and approach based on background reading
 	
 	2. conduct a group session to test/evaluate/explore the study
-	
+
+---
+
+Coordinating Source Code Changes
+layout: default
+---
+
+When making a change to a code base, developers must often coordinate work on those changes with developers	
 	
 ---
 Add material like:

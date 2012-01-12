@@ -14,7 +14,7 @@ The first few studies are spelled out in detail. For later studies, you will be 
 	b. [Data analysis](studies/pair-programming-analysis.html)
 
 * Computational Science and Engineering - an interview study  
-	a. Interviewing, transcribing and summarizing  
+	a. [Interviewing, transcribing and summarizing](studies/cse.html)  
 	b. Open coding
 
 * Systematic reviews  
