@@ -15,7 +15,7 @@ The first few studies are spelled out in detail. For later studies, you will be 
 
 * Computational Science and Engineering - an interview study  
 	a. [Interviewing, transcribing and summarizing](studies/cse.html)  
-	b. Open coding
+	b. [Open coding, etc](studies/cse-analysis.html)
 
 * Systematic reviews  
 	a. Distributed software development  

@@ -30,3 +30,13 @@ Add material like:
 * basic stats
 * coding
 * interviewing
+
+# Photo ethnography study
+
+Collect photos of people's workspaces (virtual or physical) to analyze aspects of productivity.
+
+
+
+# Final assignment
+
+Design (but do not conduct) a study determining what distribution describes developer productivity. Define core terms.
