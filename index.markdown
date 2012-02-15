@@ -18,7 +18,7 @@ The first few studies are spelled out in detail. For later studies, you will be 
 	b. [Open coding, etc](studies/cse-analysis.html)
 
 * Systematic reviews  
-	a. Distributed software development  
+	a. [Distributed software development](studies/systematic-review.html)  
 	b. Collocated software development
 
 * Questions and Answers on StackOverflow - coding and categorizing

@@ -3,40 +3,45 @@ title: Systematic review
 layout: default
 ---
 
-A systematic review can be seen as a meta-study. That is, rather than conducting a new study, a systematic review is an analysis of previous studies. 
+A systematic review can be seen as a meta-study or a secondary study. That is, rather than conducting a new study, a systematic review is an analysis of previous studies. Please read the following two papers about systematic reviews.
 
-_Reference:_ Barbara Kitchenham and Stuart Charters. [Guidelines for performing Systematic Literature Reviews in Software Engineering.](http://www.mendeley.com/research/guidelines-performing-systematic-literature-reviews-software-engineering-2/)
+* Barbara Kitchenham and Stuart Charters. [Guidelines for performing Systematic Literature Reviews in Software Engineering.](http://www.mendeley.com/research/guidelines-performing-systematic-literature-reviews-software-engineering-2/)
 
-_Reference:_ http://www.sciencedirect.com/science/article/pii/S016412120600197X
+* Pearl Breretona, Barbara A. Kitchenham, David Budgen, Mark Turnera and Mohamed Khalil.
+[Lessons from applying the systematic literature review process within the software engineering domain](http://www.sciencedirect.com/science/article/pii/S016412120600197X)
 
-## Distributed Software Development
+This week you will conduct a systematic review about distributed software development. Some successful open source systems, such as Linux and Firefox, are developed by relatively large numbers of geographically distributed developers. Similarly, some companies employ developers in multiple locations around the world and these developers must at times work together. For example, one company I was at had teams spread across three or four locations such as USA, India, Russia and China.
 
-Some successful open source systems, such as Linux and Firefox, serve as an existence proof that distributed 
+The goal of your systematic review should be to explore the nature of distributed software development (possibly contrasting it with co-located software development). Focus on papers that can contribute to building theory about distributed software development. Specifically, consider the following questions:
 
-Some research has shown that -- challenges. Many people believe that companies need to make distributed software development more like local development. 
+* Which of the papers describe or measure aspects of distributed software development?
+
+* How have aspects aspects of distributed development been categorized?
+
+* What kinds of situations/contexts has distributed software been developed in?
+
+* What statements of correlation or causation have been made? How have those statements been supported?
+
+Considering these questions should allow you to understand how close we are to normative theories about distributed software development.
 
 ## Steps
 
-1. Decide on a research question for the study. I have listed some example questions below, but feel free to select your own as long as it is related to software engineering.
+1. Decide on what sources of papers you will consider. Try to be comprehensive.
 
-2. Decide on what sources. Try to be comprehensive
+2. Determine the search queries that will be used to select papers. Take this further by developing some inclusion and exclusion criteria.
 
-3. Determine the search query that will be used to select papers.
+3. Perform the search and collect a list of papers. This will likely be a large list.
 
-4. Collect list of papers. Likely a large list.
+4. Select three of the papers from the list and read those. Please share the papers you have decided to read with the class to avoid (much) duplication. Try to make these "good" papers.
 
-5. Select 3 of the papers from the list and read those. Share the papers you have decided to read with the class to avoid (much) duplication. 
-
-6. Read and analyze those three papers.
+6. Read and analyze those three papers by considering the questions above.
 
 ## Report
 
-_Research question:_ The question that is the basis for your systematic review.
+Prepare a *one page* report about your study. Your report should have the following three sections.
 
-_Sources and query:_ Describe and defend your choice of sources and the query or queries you used.
+_Sources and query:_ Describe and defend your choice of paper sources and the query or queries you used. Also, describe your inclusion and exclusion criteria and list the three papers you have chosen.
 
-_Analytic results:_ Summarize ...
+_Analytic results:_ Summarize the results of your analysis.
 
-In addition to the one page report, you should also submit a list all of the papers you found. Highlight the three you used in this study.
-
-
+_Reflect on the applicability of systematic reviews:_ Under what conditions would you conduct a systematic review? What is the value of this kind of research?
