@@ -23,6 +23,8 @@ The first few studies are spelled out in detail. For later studies, you will be 
 
 * [Questions and Answers on StackOverflow](studies/stackoverflow.html) - theory building
 
+* [Exploring Linux Development](studies/msr.html) - mining software repositories
+
 ## Materials
 
 * Kitchenham, Pfleeger, Pickard, Jones, Hoaglin, El Emam and Rosenberg. _Preliminary guidelines for empirical research in software engineering_. IEEE Transactions on Software Engineering, 28(8), August 2002.
