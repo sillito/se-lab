@@ -25,6 +25,8 @@ The first few studies are spelled out in detail. For later studies, you will be 
 
 * [Exploring Linux Development](studies/msr.html) - mining software repositories
 
+* [Future of Computer Science Education](studies/learning.html) - position paper
+
 ## Materials
 
 * Kitchenham, Pfleeger, Pickard, Jones, Hoaglin, El Emam and Rosenberg. _Preliminary guidelines for empirical research in software engineering_. IEEE Transactions on Software Engineering, 28(8), August 2002.
